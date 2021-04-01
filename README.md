@@ -24,3 +24,14 @@ A simple web page used to take information and stores it in the Json database.
 
 
 
+*Inside the Json database*
+
+![Screenshot (738)](https://user-images.githubusercontent.com/80746159/113304864-0d852c00-9320-11eb-928a-be9aa703b02b.png)
+
+
+### project status  
+*Completed*
+
+### Scope
+
+*It can be used in our day-to-day life to store data without any complexity involvedin the code*
