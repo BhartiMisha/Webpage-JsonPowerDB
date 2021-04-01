@@ -35,3 +35,14 @@ A simple web page used to take information and stores it in the Json database.
 ### Scope
 
 *It can be used in our day-to-day life to store data without any complexity involved in the code*
+
+
+## Release History 
+### 0.0.1
+     Working on the code
+### 0.1.0
+     * The First proper Release 
+### 0.1.2
+     * Included JPDB common js
+     * Renamed executeCommand() in saveEmployee() method to executeCommandAtGivenBaseUrl()
+     * Deleted the Function defintion for createPUTRequest()
