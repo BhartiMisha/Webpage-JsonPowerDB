@@ -34,4 +34,4 @@ A simple web page used to take information and stores it in the Json database.
 
 ### Scope
 
-*It can be used in our day-to-day life to store data without any complexity involvedin the code*
+*It can be used in our day-to-day life to store data without any complexity involved in the code*
